@@ -71,5 +71,6 @@ while not exit_condition:
         elif condition == "N":
             exit_condition = True
             break
+        
 
 mydb.close()
