@@ -72,5 +72,5 @@ while not exit_condition:
             exit_condition = True
             break
         
-
+print("test")
 mydb.close()
